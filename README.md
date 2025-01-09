@@ -48,26 +48,3 @@ The project includes:
 - A breakdown of **Investment Durations** into categories such as short-term, medium-term, and long-term.
 
 ![Task 4](https://github.com/user-attachments/assets/899aa411-fdb9-4195-9dc7-fc0acbb59e35)
-
-
----
-
-## Key Metrics:
-- **Investment Avenues Distribution**:  
-  - Equity: 10  
-  - Fixed Deposits: 9  
-  - Mutual Funds: 18  
-  - Public Provident Fund: 3  
-
-- **Monitoring Frequency Breakdown**:  
-  - Monthly: 29  
-  - Weekly: 7  
-  - Daily: 4  
-
-- **Investment Duration Preferences**:  
-  - 3-5 years: 19  
-  - 1-3 years: 18  
-  - Less than 1 year: 2  
-  - More than 5 years: 1  
-
----
