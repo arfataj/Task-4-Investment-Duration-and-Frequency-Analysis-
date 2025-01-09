@@ -45,7 +45,10 @@ To analyze the distribution of investment durations and the impact of monitoring
 ## Visualizations:
 The project includes:
 - A bar chart illustrating **Monitoring Frequency** across investment avenues (daily, weekly, monthly).  
-- A breakdown of **Investment Durations** into categories such as short-term, medium-term, and long-term.  
+- A breakdown of **Investment Durations** into categories such as short-term, medium-term, and long-term.
+
+![Task 4](https://github.com/user-attachments/assets/899aa411-fdb9-4195-9dc7-fc0acbb59e35)
+
 
 ---
 
